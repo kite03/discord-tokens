@@ -1,6 +1,6 @@
 # discord-tokens
 
-I have created a tool that automatically scans for discord tokens online using a variety of methods. Github/Discord delete any discord tokens uploaded to a repository meaning that anything uploaded here will be deleted.
+I have created a tool that automatically scans for discord tokens online using a variety of methods. Github/Discord delete any discord tokens uploaded to a repository meaning that any tokens uploaded here will be invalid.
 
 ### Why is my token on this list? Is my account safe?
 
